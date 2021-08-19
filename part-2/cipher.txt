@@ -1,0 +1,12 @@
+cipher switches every other character
+
+abcdefghijklmnopqrstuvwxyz
+zxcvbnmasdfghjklqwertyuiop
+qazwsxedcrfvtgbyhnujmiklop
+
+I love cryptography!
+
+S g    cwo   mwz
+   bis    yjb   ydl
+
+S gbis cwoyjbmwzydl!

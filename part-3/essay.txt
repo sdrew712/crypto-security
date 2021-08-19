@@ -1,0 +1,22 @@
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+Ashley Madison
+
+
+Give an overview of what the breach was and the motivations behind it.
+The website was a dating app for people to cheat on their partners. This was the motivation behind the hack: attacking people for affairs.
+The hackers threatened that they would release all of the user data including names and addresses if the site was not shut down.
+Their requests were not met and they leaked the data, leading to public shaming of those caught using the site.
+
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+Ashley Madison started using bcrypt to store passwords in 2012. However, this was not always the case, and previous passwords had not 
+been updated to be more secure, still using MD5 which is easier to decrypt and possible to brute-force.
+
+The user data was stolen by the group "The Impact Team" and posted on the dark web. Later, many passwords were cracked by the group
+"Cynosure Prime".
+
+
+What has the company done to protect against that vulnerability.
+The site's network was fully redesigned and the code was all reviewed. The Office of the Privacy Commissioner worked with Ashley Madison
+to protect their site in Canada, and in the US the FTC had the site meet the Cybersecurity Framework standards. The site also has had
+white hat hackers test their site to ensure security.

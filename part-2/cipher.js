@@ -1,6 +1,6 @@
-let alphabet = "abcdefghijklmnopqrstuvwxyz";
-let map1 = "zxcvbnmasdfghjklqwertyuiop";
-let map2 = "qazwsxedcrfvtgbyhnujmikolp";
+let alphabet = " .,!?abcdefghijklmnopqrstuvwxyz";
+let map1 = " .,!?zxcvbnmasdfghjklqwertyuiop";
+let map2 = " .,!?qazwsxedcrfvtgbyhnujmikolp";
 
 const readline = require('readline').createInterface({
   input: process.stdin,
